@@ -1,6 +1,6 @@
 # Chuhuiv Weather App - Release Notes v1.0.0
 
-## 🎉 Initial Release - October 2024
+## 🎉 Initial Release - October 2025
 
 We're excited to announce the first stable release of **Chuhuiv Weather App** - a modern WPF desktop application providing accurate weather information for Chuhuiv, Kharkiv Oblast, Ukraine.
 
