@@ -1,0 +1,55 @@
+Chuhuiv Weather App v1.0.0 - Portable Release
+==============================================
+
+PORTABLE APPLICATION
+====================
+
+This is a self-contained portable application that requires no installation.
+All dependencies including .NET 9.0 runtime are included.
+
+SYSTEM REQUIREMENTS:
+- Windows 10 version 1809 or newer
+- 64-bit processor (x64 architecture)
+- Minimum 200 MB free disk space
+- Internet connection for weather data
+
+HOW TO RUN:
+1. Extract all files to any folder (e.g., Desktop, USB drive, etc.)
+2. Double-click "ChuhuivWeather.App.exe" to start the application
+3. No installation or admin rights required
+4. The app will create cache files in %LOCALAPPDATA%\ChuhuivWeather\
+
+PORTABLE FEATURES:
+- Self-contained - no additional software required
+- Can run from USB drive or any removable media
+- No registry modifications
+- No system files changed
+- Clean uninstall - just delete the folder
+
+FIRST RUN:
+- The application will attempt to fetch current weather data
+- If successful, data will be cached for offline viewing
+- Auto-refresh is enabled by default (hourly updates)
+
+FEATURES:
+- Current weather conditions for Chuhuiv, Ukraine
+- 3-day weather forecast
+- Automatic data caching for offline use
+- Russian language interface
+- Auto-refresh every hour
+
+TROUBLESHOOTING:
+- Ensure Windows Defender or antivirus allows the application
+- Check internet connection if weather data doesn't load
+- Cached data will be shown if network is unavailable
+
+DATA STORAGE:
+- Application settings: Portable (in application folder)
+- Weather cache: %LOCALAPPDATA%\ChuhuivWeather\cache.json
+
+For detailed information, see README.md and RELEASE_NOTES_v1.0.0.md
+
+VERSION: 1.0.0
+BUILD: Portable Self-Contained
+ARCHITECTURE: Windows x64
+SIZE: ~140 MB (includes .NET 9.0 runtime)

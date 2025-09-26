@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChuhuivWeather.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a31da06b46848e604acca19e327eeb02dbde690")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce509794f167c3cbb7cd795b5b9516f5c0d10ecc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChuhuivWeather.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChuhuivWeather.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
