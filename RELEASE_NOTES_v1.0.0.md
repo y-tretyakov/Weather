@@ -229,6 +229,6 @@ This application utilizes the **Open-Meteo API** under their free non-commercial
 
 ---
 
-*Release Date: October 2024*  
+*Release Date: October 2025*  
 *Version: 1.0.0*  
 *Build Target: .NET 9.0-windows*
