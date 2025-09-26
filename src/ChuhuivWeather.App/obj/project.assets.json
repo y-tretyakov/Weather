@@ -39,6 +39,45 @@
           "lib/net8.0/openmeteo_sdk.dll": {}
         }
       }
+    },
+    "net9.0-windows7.0/win-x64": {
+      "CommunityToolkit.Mvvm/8.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "Google.FlatBuffers/24.3.25": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Google.FlatBuffers.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Google.FlatBuffers.dll": {}
+        }
+      },
+      "openmeteo_sdk/1.18.6": {
+        "type": "package",
+        "dependencies": {
+          "Google.FlatBuffers": "24.3.25"
+        },
+        "compile": {
+          "lib/net8.0/openmeteo_sdk.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/openmeteo_sdk.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -200,6 +239,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

@@ -1,0 +1,42 @@
+Chuhuiv Weather App v1.0.0 - Self-Contained Release
+========================================================
+
+INSTALLATION INSTRUCTIONS
+=========================
+
+This is a self-contained release that includes the .NET 9.0 runtime.
+No additional software installation is required.
+
+SYSTEM REQUIREMENTS:
+- Windows 10 version 1809 or newer
+- 64-bit processor (x64 architecture)
+- Minimum 200 MB free disk space
+- Internet connection for weather data
+
+INSTALLATION STEPS:
+1. Extract all files to your desired location (e.g., C:\Program Files\ChuhuivWeather)
+2. Run "ChuhuivWeather.App.exe" to start the application
+3. The app will automatically create cache files in %LOCALAPPDATA%\ChuhuivWeather\
+
+FIRST RUN:
+- The application will attempt to fetch current weather data
+- If successful, data will be cached for offline viewing
+- Auto-refresh is enabled by default (hourly updates)
+
+FEATURES:
+- Current weather conditions for Chuhuiv, Ukraine
+- 3-day weather forecast
+- Automatic data caching for offline use
+- Russian language interface
+- Auto-refresh every hour
+
+TROUBLESHOOTING:
+- Ensure Windows Defender or antivirus allows the application
+- Check internet connection if weather data doesn't load
+- Cached data will be shown if network is unavailable
+
+For detailed information, see README.md and RELEASE_NOTES_v1.0.0.md
+
+VERSION: 1.0.0
+BUILD: Self-Contained (includes .NET 9.0 runtime)
+ARCHITECTURE: Windows x64

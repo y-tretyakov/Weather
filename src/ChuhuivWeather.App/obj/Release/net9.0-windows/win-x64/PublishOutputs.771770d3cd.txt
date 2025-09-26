@@ -1,0 +1,8 @@
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\ChuhuivWeather.App.exe
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\ChuhuivWeather.App.dll
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\ChuhuivWeather.App.deps.json
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\ChuhuivWeather.App.runtimeconfig.json
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\ChuhuivWeather.App.pdb
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\CommunityToolkit.Mvvm.dll
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\Google.FlatBuffers.dll
+D:\DEV\Weather\dist\ChuhuivWeather-v1.0.0-win-x64-framework-dependent\openmeteo_sdk.dll
